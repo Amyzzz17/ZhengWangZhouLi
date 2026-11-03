@@ -1,0 +1,29 @@
+year,Region,all_peak_month,complete_peak_month,peak_changed
+2022,Africa,12,12,False
+2022,Asia,2,2,False
+2022,Europe,6,6,False
+2022,Latin America and Caribbean,7,7,False
+2022,Middle East,7,7,False
+2022,North America,12,12,False
+2022,Oceania,6,6,False
+2023,Africa,5,5,False
+2023,Asia,11,11,False
+2023,Europe,3,3,False
+2023,Latin America and Caribbean,3,3,False
+2023,Middle East,9,9,False
+2023,North America,10,10,False
+2023,Oceania,10,10,False
+2024,Africa,12,12,False
+2024,Asia,1,1,False
+2024,Europe,4,4,False
+2024,Latin America and Caribbean,12,12,False
+2024,Middle East,6,6,False
+2024,North America,11,11,False
+2024,Oceania,10,10,False
+2025,Africa,12,12,False
+2025,Asia,12,11,True
+2025,Europe,8,8,False
+2025,Latin America and Caribbean,1,1,False
+2025,Middle East,9,9,False
+2025,North America,11,11,False
+2025,Oceania,9,9,False
