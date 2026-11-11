@@ -4,8 +4,6 @@
 
 This project examines how economic conditions, solar resources, existing PV deployment and regional time trends relate to the destination patterns of China's solar PV exports.
 
-**Start here:** [Read the full analytical report](Docs/Analytical_Report_712L.pdf). The PDF brings together the group's exploratory figures, four supporting research questions, regression results, summary tables, diagnostic checks and interpretation. It is the project-level report; the notebooks and section-level outputs provide supporting analysis.
-
 ## 1. Team
 
 **Team name:** zwz
