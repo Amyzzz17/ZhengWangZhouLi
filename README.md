@@ -162,4 +162,4 @@ Important limitations are:
 
 ## 9. AI Use Statement
 
-AI was used to help identify relevant datasets and assist with writing and troubleshooting the analysis code, particularly for **Part 4: the multi-region time-trend regression**. Data sources were verified against the original providers, and code outputs were checked for consistency with the underlying data.
+AI was used to help identify relevant datasets and assist with writing and troubleshooting the analysis code. Data sources were verified against the original providers, and code outputs were checked for consistency with the underlying data.
